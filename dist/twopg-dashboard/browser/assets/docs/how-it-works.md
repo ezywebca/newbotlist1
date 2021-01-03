@@ -1,5 +1,5 @@
 <title>How It Works</title>
-<description>How algorithms work on DBots, and more.</description>
+<description>How algorithms work on NBList, and more.</description>
 <url>how-it-works</url>
 
 # How It Works
