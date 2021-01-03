@@ -1,9 +1,9 @@
 <title>API</title>
-<description>Interact with DBots through HTTP requests.</description>
+<description>Interact with NBList through HTTP requests.</description>
 <url>api</url>
 
 # API
-- Interact with DBots through HTTP requests
+- Interact with NBList through HTTP requests
 
 ## Uses
 - Bot interaction for webapp
@@ -25,7 +25,7 @@ Code | Description
 ---
 
 ## Rate Limiting
-DBots uses rate limiting to reduce API abuse.
+NBList uses rate limiting to reduce API abuse.
 
 A maximum of *600 requests* can be sent *per 10 minutes*.
 
@@ -57,7 +57,7 @@ This is what is posted to a bots **Vote Webhook URL**, when a bot is voted for.
 ## Bot Stats
 You can view the stats of a bot, including voting, guilds and more.
 
-**URL**: `https://dbots.co/api/v1/bots/:id/stats`
+**URL**: `https://nblist.glitch.me/api/v1/bots/:id/stats`
 
 ### Reponse
 
@@ -86,4 +86,4 @@ You can view the stats of a bot, including voting, guilds and more.
 }
 ```
 
-**Example**: `https://dbots.co/api/v1/bots/525935335918665760/stats`
+**Example**: `https://nblist.glitch.me/api/v1/bots/525935335918665760/stats`
