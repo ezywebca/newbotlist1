@@ -35,6 +35,6 @@ Replace [yourBotId] with the ID of your bot.
 ---
 
 ## Message an Admin
-Send a message to the [NBList Discord server](/server) 📮』ModMail#6734 with the URL to your home page, and it will be validated.
+Send a message to the [NBList Discord server](/server) 『📮』ModMail#6734 with the URL to your home page, and it will be validated.
 
 `Insert send message to admin feature here`
