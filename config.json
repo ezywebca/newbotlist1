@@ -1,0 +1,22 @@
+{
+    "bot": {
+        "token": "Nzk1MDIxMDk1OTkyMjk1NDU1.X_DTGA.X_F5Tz-J6Je7fsQh91QNiUTDxtQ",
+        "secret": "tBdOeVkUbrXd3_hZQ5GlwSGWMx3Jbbwc",
+        "ownerId": "676195747904880690",
+        "activity": "nblist.glitch.me",
+        "id": "795021095992295455"
+    },
+    "guild": {
+        "botRoleId": "786111087925395467",
+        "devRoleId": "783873034552344606",
+        "id": "783873034494148609",
+        "logChannelId": "794452985274957864"
+    },
+    "api": {
+        "url": "http://localhost:3000/api/v1",
+        "port": "3000",
+        "supportInvite": "BjSeT9ra9D"
+    },
+    "dashboardURL": "http://localhost:4200",
+    "mongoURL": "mongodb+srv://iut3890g:6BclYy2yHqvs3hKQ@cluster0.sbr9d.mongodb.net/dbots?retryWrites=true&w=majority"
+}
